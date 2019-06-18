@@ -1,4 +1,4 @@
 # Write your code here!
-# require './config/environment'
+require './config/environment'
 
 run App
